@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.sathya.customer.facadeservice.CustomerService"/>
+<fullyQualifiedTypeName name="com.sathya.customer.facadee.CustomerFacade"/>
+<fullyQualifiedTypeName name="com.sathya.customer.helper.CustomerHelper"/>
+<fullyQualifiedTypeName name="com.sathya.customer.facade.impl.CustomerFacadeImpl"/>
+<fullyQualifiedTypeName name="com.sathya.customer.service.impl.CustomerServiceImpl"/>
+<fullyQualifiedTypeName name="java.sql.Connection"/>
+<fullyQualifiedTypeName name="java.sql.DriverManager"/>
+<fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
+<fullyQualifiedTypeName name="java.lang.Exception"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="com.sathya.customer.daoo.CustomerDao"/>
+<fullyQualifiedTypeName name="com.sathya.customer.dao.impl.CustomerDaoImpl"/>
+<fullyQualifiedTypeName name="com.sathya.customer.model.AddressDto"/>
+<fullyQualifiedTypeName name="com.sathya.customer.service.CustomerService"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="com.sathya.customer.model.CustomerDto"/>
+</qualifiedTypeNameHistroy>
